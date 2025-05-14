@@ -1,0 +1,1642 @@
+[
+    {
+        "name": "rice",
+        "icon": "🍚"
+    },
+    {
+        "name": "lentils (dal)",
+        "icon": "🥣"
+    },
+    {
+        "name": "chickpeas (chana)",
+        "icon": "🌱"
+    },
+    {
+        "name": "wheat flour",
+        "icon": "🌾"
+    },
+    {
+        "name": "gram flour (besan)",
+        "icon": "🌟"
+    },
+    {
+        "name": "mustard seeds",
+        "icon": "🌱"
+    },
+    {
+        "name": "cumin seeds",
+        "icon": "🌿"
+    },
+    {
+        "name": "coriander seeds",
+        "icon": "🌿"
+    },
+    {
+        "name": "fenugreek seeds",
+        "icon": "🌱"
+    },
+    {
+        "name": "turmeric powder",
+        "icon": "🧡"
+    },
+    {
+        "name": "red chili powder",
+        "icon": "🌶️"
+    },
+    {
+        "name": "garam masala",
+        "icon": "🌿"
+    },
+    {
+        "name": "cardamom pods",
+        "icon": "🍃"
+    },
+    {
+        "name": "cinnamon sticks",
+        "icon": "🍂"
+    },
+    {
+        "name": "cloves",
+        "icon": "🌸"
+    },
+    {
+        "name": "bay leaves",
+        "icon": "🍃"
+    },
+    {
+        "name": "curry leaves",
+        "icon": "🌿"
+    },
+    {
+        "name": "asafoetida (hing)",
+        "icon": "🌿"
+    },
+    {
+        "name": "tamarind paste",
+        "icon": "🍃"
+    },
+    {
+        "name": "coconut milk",
+        "icon": "🥥"
+    },
+    {
+        "name": "fresh coconut",
+        "icon": "🥥"
+    },
+    {
+        "name": "cashew nuts",
+        "icon": "💰"
+    },
+    {
+        "name": "almonds",
+        "icon": "🌰"
+    },
+    {
+        "name": "pistachios",
+        "icon": "🥜"
+    },
+    {
+        "name": "peanuts",
+        "icon": "🥜"
+    },
+    {
+        "name": "ghee",
+        "icon": "🌟"
+    },
+    {
+        "name": "clarified butter",
+        "icon": "🌟"
+    },
+    {
+        "name": "mustard oil",
+        "icon": "🌱"
+    },
+    {
+        "name": "sesame oil",
+        "icon": "🌿"
+    },
+    {
+        "name": "sunflower oil",
+        "icon": "🌻"
+    },
+    {
+        "name": "vegetable oil",
+        "icon": "🌱"
+    },
+    {
+        "name": "basmati rice",
+        "icon": "🌾"
+    },
+    {
+        "name": "sona masoori rice",
+        "icon": "🌾"
+    },
+    {
+        "name": "jasmine rice",
+        "icon": "🌸"
+    },
+    {
+        "name": "parboiled rice",
+        "icon": "🌱"
+    },
+    {
+        "name": "idli rice",
+        "icon": "🍚"
+    },
+    {
+        "name": "poha (flattened rice)",
+        "icon": "🍚"
+    },
+    {
+        "name": "semolina (rava/sooji)",
+        "icon": "🌾"
+    },
+    {
+        "name": "jaggery",
+        "icon": "🍬"
+    },
+    {
+        "name": "sugar",
+        "icon": "🍭"
+    },
+    {
+        "name": "salt",
+        "icon": "🧂"
+    },
+    {
+        "name": "black salt",
+        "icon": "🖤"
+    },
+    {
+        "name": "rock salt",
+        "icon": "⛰️"
+    },
+    {
+        "name": "tamarind",
+        "icon": "🌳"
+    },
+    {
+        "name": "kokum",
+        "icon": "🍃"
+    },
+    {
+        "name": "dry mango powder (amchur)",
+        "icon": "🌳"
+    },
+    {
+        "name": "cilantro (coriander leaves)",
+        "icon": "🍃"
+    },
+    {
+        "name": "mint leaves",
+        "icon": "🌱"
+    },
+    {
+        "name": "curry powder",
+        "icon": "🌿"
+    },
+    {
+        "name": "curry paste",
+        "icon": "🍃"
+    },
+    {
+        "name": "sambar powder",
+        "icon": "🌱"
+    },
+    {
+        "name": "rasam powder",
+        "icon": "🍂"
+    },
+    {
+        "name": "chaat masala",
+        "icon": "🍴"
+    },
+    {
+        "name": "pickling spice",
+        "icon": "🥒"
+    },
+    {
+        "name": "fennel seeds",
+        "icon": "🌿"
+    },
+    {
+        "name": "poppy seeds",
+        "icon": "🌼"
+    },
+    {
+        "name": "nigella seeds",
+        "icon": "🌿"
+    },
+    {
+        "name": "carom seeds (ajwain)",
+        "icon": "🌱"
+    },
+    {
+        "name": "black pepper",
+        "icon": "🌿"
+    },
+    {
+        "name": "green cardamom",
+        "icon": "🍃"
+    },
+    {
+        "name": "black cardamom",
+        "icon": "🌿"
+    },
+    {
+        "name": "nutmeg",
+        "icon": "🌰"
+    },
+    {
+        "name": "mace",
+        "icon": "🍃"
+    },
+    {
+        "name": "star anise",
+        "icon": "⭐"
+    },
+    {
+        "name": "fenugreek leaves (kasuri methi)",
+        "icon": "🌿"
+    },
+    {
+        "name": "saffron",
+        "icon": "🌼"
+    },
+    {
+        "name": "paneer",
+        "icon": "🧀"
+    },
+    {
+        "name": "ginger",
+        "icon": "🧡"
+    },
+    {
+        "name": "garlic",
+        "icon": "🧄"
+    },
+    {
+        "name": "onion",
+        "icon": "🧅"
+    },
+    {
+        "name": "tomato",
+        "icon": "🍅"
+    },
+    {
+        "name": "potato",
+        "icon": "🥔"
+    },
+    {
+        "name": "cauliflower",
+        "icon": "🥦"
+    },
+    {
+        "name": "eggplant (brinjal)",
+        "icon": "🍆"
+    },
+    {
+        "name": "spinach",
+        "icon": "🍃"
+    },
+    {
+        "name": "okra (ladyfinger)",
+        "icon": "🫑"
+    },
+    {
+        "name": "cabbage",
+        "icon": "🥬"
+    },
+    {
+        "name": "carrot",
+        "icon": "🥕"
+    },
+    {
+        "name": "beetroot",
+        "icon": "🥒"
+    },
+    {
+        "name": "radish",
+        "icon": "🥕"
+    },
+    {
+        "name": "green peas",
+        "icon": "🌱"
+    },
+    {
+        "name": "corn",
+        "icon": "🌽"
+    },
+    {
+        "name": "bell pepper",
+        "icon": "🫑"
+    },
+    {
+        "name": "green chili",
+        "icon": "🌶️"
+    },
+    {
+        "name": "red chili",
+        "icon": "🌶️"
+    },
+    {
+        "name": "cumin powder",
+        "icon": "🌿"
+    },
+    {
+        "name": "coriander powder",
+        "icon": "🌿"
+    },
+    {
+        "name": "bay leaf",
+        "icon": "🍃"
+    },
+    {
+        "name": "cloves",
+        "icon": "🌸"
+    },
+    {
+        "name": "cinnamon",
+        "icon": "🍂"
+    },
+    {
+        "name": "cardamom",
+        "icon": "🍃"
+    },
+    {
+        "name": "nutmeg",
+        "icon": "🌰"
+    },
+    {
+        "name": "mace",
+        "icon": "🍃"
+    },
+    {
+        "name": "fennel",
+        "icon": "🌿"
+    },
+    {
+        "name": "black pepper",
+        "icon": "🌿"
+    },
+    {
+        "name": "ajwain (carom seeds)",
+        "icon": "🌱"
+    },
+    {
+        "name": "poppy seeds",
+        "icon": "🌼"
+    },
+    {
+        "name": "sesame seeds",
+        "icon": "🌿"
+    },
+    {
+        "name": "mustard oil",
+        "icon": "🌱"
+    },
+    {
+        "name": "coconut oil",
+        "icon": "🥥"
+    },
+    {
+        "name": "peanut oil",
+        "icon": "🥜"
+    },
+    {
+        "name": "ginger-garlic paste",
+        "icon": "🧄🧡"
+    },
+    {
+        "name": "fenugreek leaves",
+        "icon": "🌿"
+    },
+    {
+        "name": "kasuri methi",
+        "icon": "🌿"
+    },
+    {
+        "name": "tamarind pulp",
+        "icon": "🍃"
+    },
+    {
+        "name": "curry paste",
+        "icon": "🍃"
+    },
+    {
+        "name": "rasam powder",
+        "icon": "🍂"
+    },
+    {
+        "name": "idli batter",
+        "icon": "🍚"
+    },
+    {
+        "name": "dosa batter",
+        "icon": "🍚"
+    },
+    {
+        "name": "fenugreek seeds",
+        "icon": "🌱"
+    },
+    {
+        "name": "panch phoron (bengali five-spice blend)",
+        "icon": "🌱"
+    },
+    {
+        "name": "hing (asafoetida)",
+        "icon": "🌱"
+    },
+    {
+        "name": "jaggery",
+        "icon": "🍬"
+    },
+    {
+        "name": "kokum",
+        "icon": "🍃"
+    },
+    {
+        "name": "dry mango powder (amchur)",
+        "icon": "🌳"
+    },
+    {
+        "name": "cilantro (coriander leaves)",
+        "icon": "🍃"
+    },
+    {
+        "name": "mint leaves",
+        "icon": "🌱"
+    },
+    {
+        "name": "curry powder",
+        "icon": "🌿"
+    },
+    {
+        "name": "chaat masala",
+        "icon": "🍴"
+    },
+    {
+        "name": "black salt",
+        "icon": "🖤"
+    },
+    {
+        "name": "rock salt",
+        "icon": "⛰️"
+    },
+    {
+        "name": "saffron",
+        "icon": "🌼"
+    },
+    {
+        "name": "hing (asafoetida)",
+        "icon": "🌿"
+    },
+    {
+        "name": "rose water",
+        "icon": "🌹"
+    },
+    {
+        "name": "kewra water",
+        "icon": "🌸"
+    },
+    {
+        "name": "tamarind chutney",
+        "icon": "🍃"
+    },
+    {
+        "name": "green mango chutney",
+        "icon": "🌱"
+    },
+    {
+        "name": "coriander chutney",
+        "icon": "🍃"
+    },
+    {
+        "name": "red chili chutney",
+        "icon": "🌶️"
+    },
+    {
+        "name": "mango pickle",
+        "icon": "🥭"
+    },
+    {
+        "name": "lemon pickle",
+        "icon": "🍋"
+    },
+    {
+        "name": "mixed pickle",
+        "icon": "🥒"
+    },
+    {
+        "name": "chili pickle",
+        "icon": "🌶️"
+    },
+    {
+        "name": "ginger pickle",
+        "icon": "🧡"
+    },
+    {
+        "name": "mango powder (amchur)",
+        "icon": "🌳"
+    },
+    {
+        "name": "papad",
+        "icon": "🥘"
+    },
+    {
+        "name": "coconut chutney",
+        "icon": "🥥"
+    },
+    {
+        "name": "yogurt",
+        "icon": "🥛"
+    },
+    {
+        "name": "butter milk",
+        "icon": "🥛"
+    },
+    {
+        "name": "rose syrup",
+        "icon": "🌹"
+    },
+    {
+        "name": "fennel powder",
+        "icon": "🌿"
+    },
+    {
+        "name": "pomegranate seeds",
+        "icon": "🌱"
+    },
+    {
+        "name": "gulkand",
+        "icon": "🌹"
+    },
+    {
+        "name": "tamarind pulp",
+        "icon": "🍃"
+    },
+    {
+        "name": "coconut cream",
+        "icon": "🥥"
+    },
+    {
+        "name": "mango pulp",
+        "icon": "🥭"
+    },
+    {
+        "name": "lemon juice",
+        "icon": "🍋"
+    },
+    {
+        "name": "curd",
+        "icon": "🥛"
+    },
+    {
+        "name": "clarified butter (ghee)",
+        "icon": "🌟"
+    },
+    {
+        "name": "rice vinegar",
+        "icon": "🍚"
+    },
+    {
+        "name": "tamarind sauce",
+        "icon": "🍃"
+    },
+    {
+        "name": "jaggery syrup",
+        "icon": "🍬"
+    },
+    {
+        "name": "pomegranate molasses",
+        "icon": "🌱"
+    },
+    {
+        "name": "fenugreek leaves (kasuri methi)",
+        "icon": "🌿"
+    },
+    {
+        "name": "coconut water",
+        "icon": "🥥"
+    },
+    {
+        "name": "chaat masala",
+        "icon": "🍴"
+    },
+    {
+        "name": "tamarind concentrate",
+        "icon": "🍃"
+    },
+    {
+        "name": "kewra essence",
+        "icon": "🌸"
+    },
+    {
+        "name": "rose water",
+        "icon": "🌹"
+    },
+    {
+        "name": "pistachio essence",
+        "icon": "🥜"
+    },
+    {
+        "name": "almond essence",
+        "icon": "🌰"
+    },
+    {
+        "name": "saffron essence",
+        "icon": "🌼"
+    },
+    {
+        "name": "coconut essence",
+        "icon": "🥥"
+    },
+    {
+        "name": "mango essence",
+        "icon": "🥭"
+    },
+    {
+        "name": "vanilla essence",
+        "icon": "🌱"
+    },
+    {
+        "name": "cardamom essence",
+        "icon": "🍃"
+    },
+    {
+        "name": "butter essence",
+        "icon": "🌟"
+    },
+    {
+        "name": "banana essence",
+        "icon": "🍌"
+    },
+    {
+        "name": "rose syrup",
+        "icon": "🌹"
+    },
+    {
+        "name": "khus syrup",
+        "icon": "🌱"
+    },
+    {
+        "name": "thandai syrup",
+        "icon": "🍹"
+    },
+    {
+        "name": "lemon syrup",
+        "icon": "🍋"
+    },
+    {
+        "name": "orange syrup",
+        "icon": "🍊"
+    },
+    {
+        "name": "mango syrup",
+        "icon": "🥭"
+    },
+    {
+        "name": "adzuki beans",
+        "icon": "🌱"
+    },
+    {
+        "name": "agave nectar",
+        "icon": "🍯"
+    },
+    {
+        "name": "allspice",
+        "icon": "🌶️"
+    },
+    {
+        "name": "almond flour",
+        "icon": "🌰"
+    },
+    {
+        "name": "almonds",
+        "icon": "🥜"
+    },
+    {
+        "name": "amaranth",
+        "icon": "🌾"
+    },
+    {
+        "name": "anchovies",
+        "icon": "🐟"
+    },
+    {
+        "name": "angel hair pasta",
+        "icon": "🍝"
+    },
+    {
+        "name": "apricots",
+        "icon": "🍑"
+    },
+    {
+        "name": "arrowroot",
+        "icon": "🎯"
+    },
+    {
+        "name": "arroz negro",
+        "icon": "🍚"
+    },
+    {
+        "name": "arugula",
+        "icon": "🌿"
+    },
+    {
+        "name": "avocado oil",
+        "icon": "🥑"
+    },
+    {
+        "name": "beef",
+        "icon": "🍖"
+    },
+    {
+        "name": "bacon",
+        "icon": "🥓"
+    },
+    {
+        "name": "baking powder",
+        "icon": "🥄"
+    },
+    {
+        "name": "baking soda",
+        "icon": "🥄"
+    },
+    {
+        "name": "barley",
+        "icon": "🌾"
+    },
+    {
+        "name": "basmati rice",
+        "icon": "🍚"
+    },
+    {
+        "name": "bay leaves",
+        "icon": "🌿"
+    },
+    {
+        "name": "beets",
+        "icon": "🍆"
+    },
+    {
+        "name": "black beans",
+        "icon": "🖤"
+    },
+    {
+        "name": "blueberries",
+        "icon": "🫐"
+    },
+    {
+        "name": "bok choy",
+        "icon": "🥬"
+    },
+    {
+        "name": "brown rice",
+        "icon": "🍚"
+    },
+    {
+        "name": "bulgur",
+        "icon": "🌾"
+    },
+    {
+        "name": "butter beans",
+        "icon": "🧈"
+    },
+    {
+        "name": "buttermilk",
+        "icon": "🥛"
+    },
+    {
+        "name": "butternut squash",
+        "icon": "🎃"
+    },
+    {
+        "name": "cantaloupe",
+        "icon": "🍈"
+    },
+    {
+        "name": "capers",
+        "icon": "🌿"
+    },
+    {
+        "name": "capsicum",
+        "icon": "🌶️"
+    },
+    {
+        "name": "cardamom",
+        "icon": "🌱"
+    },
+    {
+        "name": "carrots",
+        "icon": "🥕"
+    },
+    {
+        "name": "cashews",
+        "icon": "🌰"
+    },
+    {
+        "name": "cauliflower",
+        "icon": "🥦"
+    },
+    {
+        "name": "cayenne pepper",
+        "icon": "🌶️"
+    },
+    {
+        "name": "celeriac",
+        "icon": "🌿"
+    },
+    {
+        "name": "celery",
+        "icon": "🌿"
+    },
+    {
+        "name": "hai tea",
+        "icon": "☕"
+    },
+    {
+        "name": "chamomile",
+        "icon": "🌼"
+    },
+    {
+        "name": "cherries",
+        "icon": "🍒"
+    },
+    {
+        "name": "chia seeds",
+        "icon": "🌱"
+    },
+    {
+        "name": "chickpeas",
+        "icon": "🌱"
+    },
+    {
+        "name": "chives",
+        "icon": "🌿"
+    },
+    {
+        "name": "cilantro",
+        "icon": "🌿"
+    },
+    {
+        "name": "cinnamon",
+        "icon": "🌳"
+    },
+    {
+        "name": "citric acid",
+        "icon": "🍋"
+    },
+    {
+        "name": "clams",
+        "icon": "🐚"
+    },
+    {
+        "name": "clarified butter",
+        "icon": "🧈"
+    },
+    {
+        "name": "cloves",
+        "icon": "🌳"
+    },
+    {
+        "name": "cocoa powder",
+        "icon": "🍫"
+    },
+    {
+        "name": "coconut cream",
+        "icon": "🥥"
+    },
+    {
+        "name": "coconut milk",
+        "icon": "🥥"
+    },
+    {
+        "name": "chicken",
+        "icon": "🍗"
+    },
+    {
+        "name": "cod",
+        "icon": "🐟"
+    },
+    {
+        "name": "collard greens",
+        "icon": "🥬"
+    },
+    {
+        "name": "cornmeal",
+        "icon": "🌽"
+    },
+    {
+        "name": "cornstarch",
+        "icon": "🌽"
+    },
+    {
+        "name": "corn tortillas",
+        "icon": "🌽"
+    },
+    {
+        "name": "crab",
+        "icon": "🦀"
+    },
+    {
+        "name": "cranberries",
+        "icon": "🍒"
+    },
+    {
+        "name": "cranberry sauce",
+        "icon": "🍒"
+    },
+    {
+        "name": "crawfish",
+        "icon": "🦞"
+    },
+    {
+        "name": "cream",
+        "icon": "🥛"
+    },
+    {
+        "name": "cream of tartar",
+        "icon": "🥄"
+    },
+    {
+        "name": "crème fraîche",
+        "icon": "🥛"
+    },
+    {
+        "name": "cumin",
+        "icon": "🌱"
+    },
+    {
+        "name": "curry powder",
+        "icon": "🍛"
+    },
+    {
+        "name": "dates",
+        "icon": "🌴"
+    },
+    {
+        "name": "dill",
+        "icon": "🌿"
+    },
+    {
+        "name": "eggplant",
+        "icon": "🍆"
+    },
+    {
+        "name": "fennel",
+        "icon": "🌿"
+    },
+    {
+        "name": "fennel seeds",
+        "icon": "🌿"
+    },
+    {
+        "name": "fenugreek",
+        "icon": "🌱"
+    },
+    {
+        "name": "feta cheese",
+        "icon": "🧀"
+    },
+    {
+        "name": "figs",
+        "icon": "🌰"
+    },
+    {
+        "name": "fish sauce",
+        "icon": "🐟"
+    },
+    {
+        "name": "five-spice powder",
+        "icon": "🌶️"
+    },
+    {
+        "name": "flaxseeds",
+        "icon": "🌱"
+    },
+    {
+        "name": "flour",
+        "icon": "🌾"
+    },
+    {
+        "name": "fusilli pasta",
+        "icon": "🍝"
+    },
+    {
+        "name": "galangal",
+        "icon": "🌱"
+    },
+    {
+        "name": "garam masala",
+        "icon": "🌶️"
+    },
+    {
+        "name": "garlic",
+        "icon": "🧄"
+    },
+    {
+        "name": "ginger",
+        "icon": "🌱"
+    },
+    {
+        "name": "gorgonzola cheese",
+        "icon": "🧀"
+    },
+    {
+        "name": "gouda cheese",
+        "icon": "🧀"
+    },
+    {
+        "name": "graham flour",
+        "icon": "🌾"
+    },
+    {
+        "name": "grapefruit",
+        "icon": "🍊"
+    },
+    {
+        "name": "grapes",
+        "icon": "🍇"
+    },
+    {
+        "name": "grapeseed oil",
+        "icon": "🥑"
+    },
+    {
+        "name": "greek yogurt",
+        "icon": "🥛"
+    },
+    {
+        "name": "green beans",
+        "icon": "🌱"
+    },
+    {
+        "name": "green onions",
+        "icon": "🌿"
+    },
+    {
+        "name": "guavas",
+        "icon": "🍈"
+    },
+    {
+        "name": "ham",
+        "icon": "🍖"
+    },
+    {
+        "name": "hazelnuts",
+        "icon": "🌰"
+    },
+    {
+        "name": "honey",
+        "icon": "🍯"
+    },
+    {
+        "name": "horseradish",
+        "icon": "🌱"
+    },
+    {
+        "name": "iceberg lettuce",
+        "icon": "🥬"
+    },
+    {
+        "name": "jalapeños",
+        "icon": "🌶️"
+    },
+    {
+        "name": "jasmine rice",
+        "icon": "🍚"
+    },
+    {
+        "name": "juniper berries",
+        "icon": "🌿"
+    },
+    {
+        "name": "kaffir lime leaves",
+        "icon": "🍃"
+    },
+    {
+        "name": "kale",
+        "icon": "🥬"
+    },
+    {
+        "name": "kidney beans",
+        "icon": "🍛"
+    },
+    {
+        "name": "kimchi",
+        "icon": "🥬"
+    },
+    {
+        "name": "kiwi",
+        "icon": "🥝"
+    },
+    {
+        "name": "lard",
+        "icon": "🐖"
+    },
+    {
+        "name": "lavender",
+        "icon": "🌸"
+    },
+    {
+        "name": "lemon balm",
+        "icon": "🍋"
+    },
+    {
+        "name": "lemongrass",
+        "icon": "🌿"
+    },
+    {
+        "name": "lentils",
+        "icon": "🍲"
+    },
+    {
+        "name": "lime juice",
+        "icon": "🍈"
+    },
+    {
+        "name": "lime zest",
+        "icon": "🍋"
+    },
+    {
+        "name": "linguine pasta",
+        "icon": "🍝"
+    },
+    {
+        "name": "lobster",
+        "icon": "🦞"
+    },
+    {
+        "name": "loganberries",
+        "icon": "🍇"
+    },
+    {
+        "name": "macadamia nuts",
+        "icon": "🌰"
+    },
+    {
+        "name": "macaroni pasta",
+        "icon": "🍝"
+    },
+    {
+        "name": "mace",
+        "icon": "🌿"
+    },
+    {
+        "name": "mangoes",
+        "icon": "🥭"
+    },
+    {
+        "name": "maple syrup",
+        "icon": "🍁"
+    },
+    {
+        "name": "marjoram",
+        "icon": "🌿"
+    },
+    {
+        "name": "mascarpone cheese",
+        "icon": "🧀"
+    },
+    {
+        "name": "matcha powder",
+        "icon": "🍵"
+    },
+    {
+        "name": "mayonnaise",
+        "icon": "🥚"
+    },
+    {
+        "name": "milk",
+        "icon": "🥛"
+    },
+    {
+        "name": "mint",
+        "icon": "🌱"
+    },
+    {
+        "name": "miso",
+        "icon": "🍱"
+    },
+    {
+        "name": "molasses",
+        "icon": "🍯"
+    },
+    {
+        "name": "cheese",
+        "icon": "🧀"
+    },
+    {
+        "name": "mung beans",
+        "icon": "🌱"
+    },
+    {
+        "name": "mushrooms",
+        "icon": "🍄"
+    },
+    {
+        "name": "mussels",
+        "icon": "🦪"
+    },
+    {
+        "name": "mustard",
+        "icon": "🌿"
+    },
+    {
+        "name": "navy beans",
+        "icon": "🍛"
+    },
+    {
+        "name": "nectarines",
+        "icon": "🍑"
+    },
+    {
+        "name": "nori",
+        "icon": "🌿"
+    },
+    {
+        "name": "nutmeg",
+        "icon": "🌰"
+    },
+    {
+        "name": "oat flour",
+        "icon": "🌾"
+    },
+    {
+        "name": "oats",
+        "icon": "🌾"
+    },
+    {
+        "name": "octopus",
+        "icon": "🐙"
+    },
+    {
+        "name": "okra",
+        "icon": "🌿"
+    },
+    {
+        "name": "olives",
+        "icon": "🫒"
+    },
+    {
+        "name": "onion",
+        "icon": "🧅"
+    },
+    {
+        "name": "onion powder",
+        "icon": "🧅"
+    },
+    {
+        "name": "diced onions",
+        "icon": "🍊"
+    },
+    {
+        "name": "oranges",
+        "icon": "🍊"
+    },
+    {
+        "name": "oregano",
+        "icon": "🌿"
+    },
+    {
+        "name": "oysters",
+        "icon": "🦪"
+    },
+    {
+        "name": "pancetta",
+        "icon": "🥓"
+    },
+    {
+        "name": "panko bread crumbs",
+        "icon": "🍞"
+    },
+    {
+        "name": "papaya",
+        "icon": "🥭"
+    },
+    {
+        "name": "paprika",
+        "icon": "🌶️"
+    },
+    {
+        "name": "parmesan cheese",
+        "icon": "🧀"
+    },
+    {
+        "name": "parsley",
+        "icon": "🌿"
+    },
+    {
+        "name": "passion fruit",
+        "icon": "🍋"
+    },
+    {
+        "name": "peaches",
+        "icon": "🍑"
+    },
+    {
+        "name": "peanut butter",
+        "icon": "🥜"
+    },
+    {
+        "name": "peanuts",
+        "icon": "🥜"
+    },
+    {
+        "name": "pears",
+        "icon": "🍐"
+    },
+    {
+        "name": "peas",
+        "icon": "🌱"
+    },
+    {
+        "name": "pecans",
+        "icon": "🌰"
+    },
+    {
+        "name": "penne pasta",
+        "icon": "🍝"
+    },
+    {
+        "name": "peppers",
+        "icon": "🌶️"
+    },
+    {
+        "name": "pineapple",
+        "icon": "🍍"
+    },
+    {
+        "name": "pine nuts",
+        "icon": "🌰"
+    },
+    {
+        "name": "pinto beans",
+        "icon": "🍛"
+    },
+    {
+        "name": "pistachios",
+        "icon": "🌰"
+    },
+    {
+        "name": "plums",
+        "icon": "🍑"
+    },
+    {
+        "name": "polenta",
+        "icon": "🌽"
+    },
+    {
+        "name": "pomegranates",
+        "icon": "🍎"
+    },
+    {
+        "name": "popeye",
+        "icon": "🌿"
+    },
+    {
+        "name": "poppy seeds",
+        "icon": "🌱"
+    },
+    {
+        "name": "potatoes",
+        "icon": "🥔"
+    },
+    {
+        "name": "pumpkin",
+        "icon": "🎃"
+    },
+    {
+        "name": "pumpkin seeds",
+        "icon": "🎃"
+    },
+    {
+        "name": "quinoa",
+        "icon": "🌾"
+    },
+    {
+        "name": "raisins",
+        "icon": "🍇"
+    },
+    {
+        "name": "raspberries",
+        "icon": "🍓"
+    },
+    {
+        "name": "red pepper flakes",
+        "icon": "🌶️"
+    },
+    {
+        "name": "rice",
+        "icon": "🍚"
+    },
+    {
+        "name": "rice noodles",
+        "icon": "🍜"
+    },
+    {
+        "name": "ricotta cheese",
+        "icon": "🧀"
+    },
+    {
+        "name": "rosemary",
+        "icon": "🌿"
+    },
+    {
+        "name": "rye flour",
+        "icon": "🌾"
+    },
+    {
+        "name": "sage",
+        "icon": "🌿"
+    },
+    {
+        "name": "salmon",
+        "icon": "🐟"
+    },
+    {
+        "name": "salt",
+        "icon": "🧂"
+    },
+    {
+        "name": "sauerkraut",
+        "icon": "🥬"
+    },
+    {
+        "name": "savory",
+        "icon": "🌿"
+    },
+    {
+        "name": "scallions",
+        "icon": "🌱"
+    },
+    {
+        "name": "scallops",
+        "icon": "🦪"
+    },
+    {
+        "name": "sea salt",
+        "icon": "🧂"
+    },
+    {
+        "name": "sesame oil",
+        "icon": "🌱"
+    },
+    {
+        "name": "sesame seeds",
+        "icon": "🌱"
+    },
+    {
+        "name": "shallots",
+        "icon": "🧅"
+    },
+    {
+        "name": "shortening",
+        "icon": "🌱"
+    },
+    {
+        "name": "shrimp",
+        "icon": "🦐"
+    },
+    {
+        "name": "sour cream",
+        "icon": "🥛"
+    },
+    {
+        "name": "soy sauce",
+        "icon": "🌱"
+    },
+    {
+        "name": "spaghetti pasta",
+        "icon": "🍝"
+    },
+    {
+        "name": "spinach",
+        "icon": "🥬"
+    },
+    {
+        "name": "squash",
+        "icon": "🎃"
+    },
+    {
+        "name": "squid",
+        "icon": "🦑"
+    },
+    {
+        "name": "sriracha sauce",
+        "icon": "🌶️"
+    },
+    {
+        "name": "tar anise",
+        "icon": "⭐"
+    },
+    {
+        "name": "strawberries",
+        "icon": "🍓"
+    },
+    {
+        "name": "sugar",
+        "icon": "🍚"
+    },
+    {
+        "name": "sun-dried tomatoes",
+        "icon": "🍅"
+    },
+    {
+        "name": "sunflower seeds",
+        "icon": "🌻"
+    },
+    {
+        "name": "sweet potatoes",
+        "icon": "🍠"
+    },
+    {
+        "name": "swiss chard",
+        "icon": "🌿"
+    },
+    {
+        "name": "tangerines",
+        "icon": "🍊"
+    },
+    {
+        "name": "tapioca",
+        "icon": "🌾"
+    },
+    {
+        "name": "tarragon",
+        "icon": "🌿"
+    },
+    {
+        "name": "tea",
+        "icon": "🍵"
+    },
+    {
+        "name": "thyme",
+        "icon": "🌿"
+    },
+    {
+        "name": "tofu",
+        "icon": "🌱"
+    },
+    {
+        "name": "tomatoes",
+        "icon": "🍅"
+    },
+    {
+        "name": "truffles",
+        "icon": "🍄"
+    },
+    {
+        "name": "turmeric",
+        "icon": "🌿"
+    },
+    {
+        "name": "vanilla extract",
+        "icon": "🌿"
+    },
+    {
+        "name": "vegetable oil",
+        "icon": "🌱"
+    },
+    {
+        "name": "vinegar",
+        "icon": "🌿"
+    },
+    {
+        "name": "walnuts",
+        "icon": "🌰"
+    },
+    {
+        "name": "wasabi",
+        "icon": "🌱"
+    },
+    {
+        "name": "watermelon",
+        "icon": "🍉"
+    },
+    {
+        "name": "white wine",
+        "icon": "🍷"
+    },
+    {
+        "name": "whole wheat flour",
+        "icon": "🌾"
+    },
+    {
+        "name": "wild rice",
+        "icon": "🌾"
+    },
+    {
+        "name": "worcestershire sauce",
+        "icon": "🌿"
+    },
+    {
+        "name": "yeast",
+        "icon": "🌾"
+    },
+    {
+        "name": "yogurt",
+        "icon": "🥛"
+    }
+]
